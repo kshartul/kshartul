@@ -57,13 +57,16 @@
 
 ### 🏆 **Certifications**
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform%20Certified-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Solutions Architect Expert" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure DevOps Engineer Expert" />
+  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Certified Engineer" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Administrator Associate" />
+  <img src="https://img.shields.io/badge/Terraform%20Certified-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Certified Associate" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Engineer Associate" />
+  <img src="https://img.shields.io/badge/Databricks%20Certified-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Data Engineer Associate" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Security%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Security Engineer Associate" />
 </p>
 
 ---
