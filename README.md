@@ -6,18 +6,6 @@
   </p>
 </div>
 
-### 📝 **Summary**
-
-[cite_start]Skilled AWS, Azure & GCP Certified Cloud Architect and Lead DevOps Engineer with over 15 years of industry experience[cite: 1]. [cite_start]My expertise lies in architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications as a Site Reliability Engineer[cite: 1]. [cite_start]I have a proven track record of administering databases in MNCs such as Hitachi, Capgemini, and Cisco[cite: 1].
-
-#### **Core Competencies:**
-
-* [cite_start]**Cloud Platforms:** Extensive experience with AWS, Microsoft Azure, GCP, OpenStack, and OpenShift, covering a wide range of services including Networking, Security, Compute, Database, Storage, and Monitoring[cite: 1].
-* [cite_start]**Container Orchestration:** A Certified Kubernetes Administrator with deep knowledge of container orchestration[cite: 1]. [cite_start]I have hands-on experience in building, maintaining, deploying, and monitoring GKE, AKS, EKS, and OpenShift Kubernetes clusters[cite: 1]. [cite_start]I've also worked with multi-cluster Istio service mesh for telemetry, traffic management, and security[cite: 1].
-* [cite_start]**Infrastructure as Code (IaC):** Proficient in IaC orchestration using tools like Terraform, CloudFormation, ARM Template, and Pulumi[cite: 1]. [cite_start]I also have hands-on experience with SCM tools like Puppet and Ansible[cite: 1].
-* [cite_start]**Data Engineering & Analytics:** Experienced in installing Hadoop, MapReduce, and HDFS[cite: 1]. [cite_start]I have developed multiple MapReduce jobs, used Spark API over Hadoop YARN for analytics, and created real-time interactive dashboards with Tableau and PowerBI[cite: 1].
-* [cite_start]**DevOps & CI/CD:** Skilled in designing, implementing, and supporting fully automated CI/CD processes using tools such as Jenkins, Azure DevOps, and Git[cite: 1].
-* [cite_start]**Site Reliability & Security:** I define, measure, and improve Site Reliability Metrics (SLO/SLI) and have expertise in observability, ops processes, and performance benchmarking[cite: 1]. [cite_start]My skills also include Cloud Security design and setting up detective tests with tools like AWS WAF, AWS Guard Duty, and Azure Security Center[cite: 1].
 
 ---
 
@@ -44,6 +32,7 @@
   <img src="https://img.shields.io/badge/OpenStack-F3491C?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/ArgoCD-0066FF?style=for-the-badge&logo=argocd&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Puppet-FFB21C?style=for-the-badge&logo=puppet&logoColor=black" alt="Puppet" />
@@ -83,7 +72,24 @@
   <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
 </p>
 
+#### **Front-End & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Modules" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
+#### **Backend & APIs**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 ---
 
 ### 🏆 **Certifications**
