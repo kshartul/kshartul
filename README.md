@@ -6,6 +6,19 @@
   </p>
 </div>
 
+### 📝 **Summary**
+
+[cite_start]Skilled AWS, Azure & GCP Certified Cloud Architect and Lead DevOps Engineer with over 15 years of industry experience[cite: 1]. [cite_start]My expertise lies in architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications as a Site Reliability Engineer[cite: 1]. [cite_start]I have a proven track record of administering databases in MNCs such as Hitachi, Capgemini, and Cisco[cite: 1].
+
+#### **Core Competencies:**
+
+* [cite_start]**Cloud Platforms:** Extensive experience with AWS, Microsoft Azure, GCP, OpenStack, and OpenShift, covering a wide range of services including Networking, Security, Compute, Database, Storage, and Monitoring[cite: 1].
+* [cite_start]**Container Orchestration:** A Certified Kubernetes Administrator with deep knowledge of container orchestration[cite: 1]. [cite_start]I have hands-on experience in building, maintaining, deploying, and monitoring GKE, AKS, EKS, and OpenShift Kubernetes clusters[cite: 1]. [cite_start]I've also worked with multi-cluster Istio service mesh for telemetry, traffic management, and security[cite: 1].
+* [cite_start]**Infrastructure as Code (IaC):** Proficient in IaC orchestration using tools like Terraform, CloudFormation, ARM Template, and Pulumi[cite: 1]. [cite_start]I also have hands-on experience with SCM tools like Puppet and Ansible[cite: 1].
+* [cite_start]**Data Engineering & Analytics:** Experienced in installing Hadoop, MapReduce, and HDFS[cite: 1]. [cite_start]I have developed multiple MapReduce jobs, used Spark API over Hadoop YARN for analytics, and created real-time interactive dashboards with Tableau and PowerBI[cite: 1].
+* [cite_start]**DevOps & CI/CD:** Skilled in designing, implementing, and supporting fully automated CI/CD processes using tools such as Jenkins, Azure DevOps, and Git[cite: 1].
+* [cite_start]**Site Reliability & Security:** I define, measure, and improve Site Reliability Metrics (SLO/SLI) and have expertise in observability, ops processes, and performance benchmarking[cite: 1]. [cite_start]My skills also include Cloud Security design and setting up detective tests with tools like AWS WAF, AWS Guard Duty, and Azure Security Center[cite: 1].
+
 ---
 
 ### 🚀 **What I'm passionate about**
