@@ -2,7 +2,7 @@
   <img src="https://najjaved.github.io/najjaved/assets/hi.gif" width="50" />
   <h1>Hey there! I'm Shartul Kumar 👋</h1>
   <p>
-    Skilled AWS, Azure & GCP Certified Cloud Architect and Lead DevOps Engineer with 17+ years of industry experience. I specialize in architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications. My expertise spans across Cloud Platforms, Container Orchestration, Site Reliability Engineering, and Data Engineering.
+    Skilled AWS, Azure & GCP Certified Cloud Architect and Lead DevOps Engineer with 17+ years of industry experience. I specialize in architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications. My expertise spans across Cloud Platforms, Container Orchestration, Site Reliability Engineering, Artificial Intelligence, Data Engineering and Analytics 
   </p>
 </div>
 
