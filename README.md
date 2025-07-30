@@ -19,19 +19,23 @@
 
 ### 🛠️ **My Toolkit**
 
-#### **Cloud Platforms & DevOps**
+
+#### **Cloud, Platform Engineering & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Istio-466BBF?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Openshift-EE0000?style=for-the-badge&logo=red-hat-openshift&logoColor=white" alt="Openshift" />
+  <img src="https://img.shields.io/badge/OpenStack-F3491C?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Puppet-FFB21C?style=for-the-badge&logo=puppet&logoColor=black" alt="Puppet" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Istio-466BBF?style=for-the-badge&logo=istio&logoColor=white" alt="Istio" />
 </p>
 
 #### **Monitoring & Analytics**
@@ -45,13 +49,27 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
 </p>
 
-#### **Scripting & Databases**
+
+#### **Data & Analytics**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data-1D69A4?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Hadoop-F58428?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Hive-E25A1C?style=for-the-badge&logo=apache-hive&logoColor=white" alt="Hive" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Sqoop-F58428?style=for-the-badge&logo=apache-sqoop&logoColor=white" alt="Sqoop" />
+  <img src="https://img.shields.io/badge/Azure%20DataBricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure DataBricks" />
+  <img src="https://img.shields.io/badge/ADLS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ADLS" />
 </p>
+
+#### ** Scripting Languages & Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+</p>
+
 
 ---
 
