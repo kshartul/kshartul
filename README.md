@@ -14,7 +14,7 @@ Skilled AWS, Azure & GCP Certified Cloud and Data Engineering Architect, Lead De
 * **DevOps & SRE:** Streamlining CI/CD pipelines, automating infrastructure with tools like Terraform and Ansible, and ensuring high availability as a Site Reliability Engineer.
 * **Containerization:** Building, maintaining, and monitoring Kubernetes clusters (GKE, AKS, EKS) and using Docker for containerized applications.
 * **Data Engineering & Analytics:** Working with Data pipeline ecosystems (Hadoop, Airflow, SnowFlake, Databrikcs, Fabric) and developing real-time dashboards with PowerBI.
-* **Multi-Layer Security & Compliance:** Demonstrating the security control provisioning, Top 10 OWASP Vulnerabilitiy capture and validations across application, network, data and infrastructure levels.
+* **Multi-Layer Security:** Demonstrating the security control provisioning, Top 10 OWASP Vulnerabilitiy capture and validations across application, network, data and infrastructure levels.
 * **Compliance and Audit:** Steamlined the implementations of custom analytics, auditing with setting up protective, detective controls with AWS WAF, Config, CloudTrail Audit Manager, and Lambda Functions.
 
 
