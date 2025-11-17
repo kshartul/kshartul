@@ -2,7 +2,7 @@
   <img src="https://najjaved.github.io/najjaved/assets/hi.gif" width="50" />
   <h1>Hey there! I'm Shartul Kumar 👋</h1>
   <p>
-    Skilled AWS, Azure & GCP Certified Cloud and Data Engineering Architect, Lead DevOps and SRE Engineer with 17+ years of industry experience. I specialize in architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications. My expertise spans across Cloud Platforms, Container Orchestration, Site Reliability Engineering, Artificial Intelligence, Data Engineering and Analytics 
+    Skilled AWS, Azure & GCP Certified Cloud and Data Engineering Architect, Lead DevOps and SRE Engineer with 17+ years of industry experience. I specialize in architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications. My expertise spans across Cloud Platforms, Container Orchestration, Site Reliability Engineering, Artificial Intelligence, Data Engineering and Analytics. Full-Stack CloudOps Engineer with experience providing end-to-end cloud solutions and robust infrastructure management across AWS, Azure, and GCP. A Certified Kubernetes Administrator (CKA) with hands-on proficiency in building, deploying, and monitoring GKE, AKS, and EKS clusters, including advanced solutions like Istio Service Mesh. Core strengths include GitOps maturity, defining SRE metrics, and orchestrating infrastructure using Terraform and Cloud Formation to deliver application resiliency (HA/DR) and seamless DC/Cloud Migrations. A highly accomplished Senior Platform and DevOps Leader specialising as a Cloud/DevOps/Big Data Architect  for major global MNCs, including Cisco, Hitachi, and Capgemini. The expertise lies in driving digital transformation by designing, implementing, and optimising multi-cloud solutions that ensure resilience, efficiency, and high performance. I possess a deep commitment to Site Reliability Engineering (SRE) principles, defining and achieving critical SLO/SLI metrics, and streamlining the entire development and operations lifecycle.
   </p>
 </div>
 
@@ -11,10 +11,13 @@
 
 ### 🚀 **What I'm passionate about**
 
-* **Cloud Architecture:** Designing and implementing robust, scalable cloud solutions on AWS, Azure, and GCP.
+* **Multi-Cloud Architecture:** Designing and implementing robust, scalable cloud solutions on AWS, Azure, and GCP.
 * **DevOps & SRE:** Streamlining CI/CD pipelines, automating infrastructure with tools like Terraform and Ansible, and ensuring high availability as a Site Reliability Engineer.
 * **Containerization:** Building, maintaining, and monitoring Kubernetes clusters (GKE, AKS, EKS) and using Docker for containerized applications.
 * **Data Engineering & Analytics:** Working with Big Data ecosystems (Hadoop, Spark) and developing real-time dashboards with tools like Tableau and PowerBI.
+* **Multi-Layer Security & Compliance-Deep knowledge of security provisioning, including Azure EntraID, PIM, IAM, RBAC, and OPA, to ensure compliance with stringent regulatory policies like GDPR, PCI DSS, and HIPPA. Skilled in setting up protective and detective controls with AWS WAF, Config, and CloudTrail. AWS Audit Manager, Config and AWS Lambda  Functions.
+* <img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/3beaa7cc-5196-4d3b-85f3-b265630f66f8" />
+
 
 ---
 
