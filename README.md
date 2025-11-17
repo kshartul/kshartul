@@ -18,8 +18,6 @@ Skilled AWS, Azure & GCP Certified Cloud and Data Engineering Architect, Lead De
 * **Multi-Layer Security & Compliance:** Demonstrating the security control provisioning, Top 10 OWASP Vulnerabilitiy capture and validations across application, network, data and infrastructure levels.
 * **Compliance and Audit:** Steamlined the implementations of custom analytics, auditing with setting up protective, detective controls with AWS WAF, Config, CloudTrail Audit Manager, and Lambda Functions.
 
-<img width="468" height="98" alt="image" src="https://github.com/user-attachments/assets/3beaa7cc-5196-4d3b-85f3-b265630f66f8" />
-
 
 ---
 
