@@ -119,5 +119,5 @@
 
 ### 📧 **Get in Touch**
 
-* **LinkedIn:** [linkedin.com/in/shartul-kumar](https://www.linkedin.com/in/shartul)
+* **LinkedIn:** [linkedin.com/in/shartul](https://www.linkedin.com/in/shartul)
 * **Email:** kumarshartul24@gmail.com
