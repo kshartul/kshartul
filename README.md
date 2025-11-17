@@ -65,7 +65,7 @@ Skilled AWS, Azure & GCP Certified Cloud and Data Engineering Architect, Lead De
   <img src="https://img.shields.io/badge/ADLS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ADLS" />
 </p>
 
-#### ** Scripting Languages & Databases**
+#### **Scripting Languages & Databases**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
