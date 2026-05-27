@@ -149,7 +149,7 @@ Hadoop, Airflow, Snowflake, Databricks, Microsoft Fabric — real-time Power BI 
 
 </div>
 
-🎨 Front-End & Frameworks
+### 🎨 Front-End & Frameworks
 <div align="center">
   
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -159,7 +159,7 @@ Hadoop, Airflow, Snowflake, Databricks, Microsoft Fabric — real-time Power BI 
 
 </div>
 
-⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 <div align="center">
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
