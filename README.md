@@ -16,7 +16,7 @@
 
 Full-Stack AI Platform Engineer and DevOps Architect with **15+ years** of experience delivering end-to-end cloud solutions across **AWS, Azure, and GCP** for global MNCs including **Cisco, Hitachi, and Capgemini**.
 
-A **Certified Kubernetes Administrator (CKA)** with deep expertise in GitOps, SRE principles, infrastructure orchestration, and multi-cloud platform design. Proven track record in driving digital transformation — from Landing Zone design and large-scale DC migrations to multi-cluster Istio Service Mesh and real-time observability platforms.
+A **Certified Kubernetes Administrator (CKA)** with deep expertise in GitOps, SRE principles, infrastructure orchestration, and multi-cloud platform design. Proven track record in driving digital transformation — from Landing Zone design and large-scale DataCenter migrations to multi-cluster Istio Service Mesh and real-time observability platforms.
 
 ---
 
