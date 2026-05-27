@@ -26,7 +26,7 @@
 
 | 🏆 Experience | ☁️ Cloud Platforms | 📜 Certifications | 🌐 Scope |
 |:---:|:---:|:---:|:---:|
-| **15 Years** | **AWS · Azure · GCP** | **10+** | **Global MNCs** |
+| **15+ Years** | **AWS · Azure · GCP** | **10+** | **Global MNCs** |
 
 </div>
 
