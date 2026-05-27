@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+Architect;15+Years+of+Cloud+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Expert" alt="Typing SVG" /
 
 <br/>
+</div>
 
 
 ## 👤 About Me
@@ -12,6 +13,7 @@
  
  Full-Stack AI Platform Engineer, CloudOps Engineer and DevOps Architect with 15 years of experience providing end-to-end cloud solutions and robust infrastructure management across AWS, Azure, and GCP. A Certified Kubernetes Administrator (CKA) with hands-on proficiency in building, deploying, and monitoring GKE, AKS, and EKS clusters, including advanced solutions like Istio Service Mesh. Core strengths include GitOps maturity, defining SRE metrics, and orchestrating infrastructure using Terraform and Cloud Formation to deliver application resiliency (HA/DR) and seamless DC/Cloud Migrations. A highly accomplished Senior Platform and DevOps Leader specialising as a Cloud/DevOps/Big Data Architect  for major global MNCs, including Cisco, Hitachi, and Capgemini. The expertise lies in driving digital transformation by designing, implementing, and optimising multi-cloud solutions that ensure resilience, efficiency, and high performance. I possess a deep commitment to Site Reliability Engineering (SRE) principles, defining and achieving critical SLO/SLI metrics, and streamlining the entire development and operations lifecycle.
 
+<div align="left">
 **Core Areas of Expertise Include**
 
 **Multi-Cloud Architecture & Strategy**: Architecting robust, scalable platforms across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with significant experience in Landing Zone Design, Cloud Adoption Frameworks, and leading large-scale DC Migration projects.Containerization & Orchestration: A Certified Kubernetes Administrator (CKA) with hands-on mastery in building, securing, and monitoring managed services (EKS, AKS, GKE) and OpenShift. Proven ability to implement advanced solutions like Multi-Cluster Istio Service Mesh for traffic management and security.
