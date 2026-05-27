@@ -1,6 +1,4 @@
 <div align="center">
-
-<div align="center">
 <!-- Animated greeting -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+Architect;15+Years+of+Cloud+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Expert" alt="Typing SVG" /
 
@@ -12,10 +10,17 @@
 **Skilled and Certified Multi-Cloud Solution Design Expert · Data Engineering Architect · Lead DevOps & SRE Engineer · Data Analytcis Engineer**  
 **Architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications at global MNCs.**   
  
- A Full-Stack AI-driven Platform Engineer, CloudOps Engineer and DevOps Architect providing end-to-end cloud solutions and robust infrastructure management. A Certified Kubernetes Administrator (CKA) with hands-on proficiency in building, deploying, and monitoring K8S clusters, including advanced solutions like Istio Service Mesh. Core strengths include GitOps maturity, defining SRE metrics, and orchestrating infrastructure using Terraform and Cloud Formation to deliver application resiliency (HA/DR) and seamless DC/Cloud Migrations. A highly accomplished Senior Platform and DevOps Leader specialising as a Cloud/DevOps/Big Data The expertise lies in driving digital transformation by designing, implementing, and optimising multi-cloud solutions that ensure resilience, efficiency, and high performance. I possess a deep commitment to Site Reliability Engineering (SRE) principles, defining and achieving critical SLO/SLI metrics, and streamlining the entire development and operations lifecycle.
- providing end-to-end cloud solutions and robust infrastructure management across **AWS**, **Azure**, and **GCP**. A **Certified Kubernetes Administrator (CKA)** with hands-on proficiency in building, deploying, and monitoring **GKE**, **AKS**, and **EKS** clusters, including advanced solutions like **Istio Service Mesh**.
+ Full-Stack AI Platform Engineer, CloudOps Engineer and DevOps Architect with 15 years of experience providing end-to-end cloud solutions and robust infrastructure management across AWS, Azure, and GCP. A Certified Kubernetes Administrator (CKA) with hands-on proficiency in building, deploying, and monitoring GKE, AKS, and EKS clusters, including advanced solutions like Istio Service Mesh. Core strengths include GitOps maturity, defining SRE metrics, and orchestrating infrastructure using Terraform and Cloud Formation to deliver application resiliency (HA/DR) and seamless DC/Cloud Migrations. A highly accomplished Senior Platform and DevOps Leader specialising as a Cloud/DevOps/Big Data Architect  for major global MNCs, including Cisco, Hitachi, and Capgemini. The expertise lies in driving digital transformation by designing, implementing, and optimising multi-cloud solutions that ensure resilience, efficiency, and high performance. I possess a deep commitment to Site Reliability Engineering (SRE) principles, defining and achieving critical SLO/SLI metrics, and streamlining the entire development and operations lifecycle.
 
-Core strengths include **GitOps maturity**, defining **SRE metrics (SLO/SLI)**, and orchestrating infrastructure using **Terraform** and **CloudFormation** to deliver application resiliency (HA/DR) and seamless DC/Cloud Migrations**
+**Core Areas of Expertise Include**
+
+**Multi-Cloud Architecture & Strategy**: Architecting robust, scalable platforms across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with significant experience in Landing Zone Design, Cloud Adoption Frameworks, and leading large-scale DC Migration projects.Containerization & Orchestration: A Certified Kubernetes Administrator (CKA) with hands-on mastery in building, securing, and monitoring managed services (EKS, AKS, GKE) and OpenShift. Proven ability to implement advanced solutions like Multi-Cluster Istio Service Mesh for traffic management and security.
+
+**Infrastructure-as-Code (IaC) & Automation**: Expert-level proficiency in Infrastructure orchestration using Terraform, Pulumi, Cloud Formation, and ARM Templates, alongside configuration management with Puppet/Ansible, driving GitOps maturity and end-to-end automation with Python/Jenkins.
+
+**Cloud Security & Compliance**: Deep knowledge of security provisioning, including Azure Active Directory, IAM, RBAC, and OPA, to ensure compliance with stringent regulatory policies like GDPR, PCI DSS, and HIPAA. Skilled in setting up security controls with AWS WAF, Config, and CloudTrail.
+
+**Resilience and Performance**: Extensive background in HA Design (RPO/RTO), Capacity Planning, Disaster Recovery, and observability tooling (Splunk, NewRelic, DataDog, Dynatrace, Cloud Watch, Prometheus, OpenTelemetry) to provide comprehensive monitoring, logging, and tracing solutions.
 
 </div>
 
