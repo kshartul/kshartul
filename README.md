@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-Full-Stack AI-driven Platform Engineer and DevOps Architect. Multi-Cloud Solution Engineer, Data Engineering Architect, SRE Engineer,Data Analytcis Engineer with **15+ years** of experience delivering end-to-end cloud solutions across.The expertise lies in Architecting cloud solutions, driving cross-functional team, fromulate DevOps strategies, optimizing  solutions, improving the resiliency, efficiency and deliverig high performance of applications at global MNCs
+Full-Stack AI-driven Platform Engineer and DevOps Architect. Multi-Cloud Solution Engineer, Data Engineering Architect, SRE Engineer,Data Analytcis Engineer with **15+ years** of experience delivering end-to-end cloud solutions.The expertise lies in Architecting cloud solutions, driving cross-functional team, fromulate DevOps strategies, optimizing  solutions, improving the resiliency, efficiency and deliverig high performance of applications at global MNCs
 
 ---
 
