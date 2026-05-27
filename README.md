@@ -221,5 +221,5 @@ Let's explore how my 15 years of experience can add value to your team.
 ---
 
 <div align="center">
-  <sub>⚡ Powered by 15 years of cloud passion · Cisco · Hitachi · Capgemini</sub>
+  <sub>⚡ Powered by passion for Digital Transformation  with Technology
 </div>
