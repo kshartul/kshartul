@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-Full-Stack AI Platform Engineer and DevOps Architect with **15+ years** of experience delivering end-to-end cloud solutions across **AWS, Azure, and GCP** for global MNCs including **Cisco, Hitachi, and Capgemini**.
+Full-Stack AI-driven Platform Engineer and DevOps Architect. Multi-Cloud Solution Engineer, Data Engineering Architect, SRE Engineer,Data Analytcis Engineer with **15+ years** of experience delivering end-to-end cloud solutions across **AWS, Azure, and GCP**. Architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications at global MNCs.
 
 A **Certified Kubernetes Administrator (CKA)** with deep expertise in GitOps, SRE principles, infrastructure orchestration, and multi-cloud platform design. Proven track record in driving digital transformation — from Landing Zone design and large-scale DataCenter migrations to multi-cluster Istio Service Mesh and real-time observability platforms.
 
@@ -27,6 +27,17 @@ A **Certified Kubernetes Administrator (CKA)** with deep expertise in GitOps, SR
 | 🏆 Experience | ☁️ Cloud Platforms | 📜 Certifications | 🏢 Global MNCs |
 |:---:|:---:|:---:|:---:|
 | **15+ Years** | **AWS · Azure · GCP** | **10+** | **Cisco · Hitachi · Capgemini** |
+
+**Core Areas of Expertise Include**
+
+**Multi-Cloud Architecture & Strategy**: Architecting robust, scalable platforms across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with significant experience in Landing Zone Design, Cloud Adoption Frameworks, and leading large-scale DC Migration projects.Containerization & Orchestration: A Certified Kubernetes Administrator (CKA) with hands-on mastery in building, securing, and monitoring managed services (EKS, AKS, GKE) and OpenShift. Proven ability to implement advanced solutions like Multi-Cluster Istio Service Mesh for traffic management and security.
+
+**Infrastructure-as-Code (IaC) & Automation**: Expert-level proficiency in Infrastructure orchestration using Terraform, Pulumi, Cloud Formation, and ARM Templates, alongside configuration management with Puppet/Ansible, driving GitOps maturity and end-to-end automation with Python/Jenkins.
+
+**Cloud Security & Compliance**: Deep knowledge of security provisioning, including Azure Active Directory, IAM, RBAC, and OPA, to ensure compliance with stringent regulatory policies like GDPR, PCI DSS, and HIPAA. Skilled in setting up security controls with AWS WAF, Config, and CloudTrail.
+
+**Resilience and Performance**: Extensive background in HA Design (RPO/RTO), Capacity Planning, Disaster Recovery, and observability tooling (Splunk, NewRelic, DataDog, Dynatrace, Cloud Watch, Prometheus, OpenTelemetry) to provide comprehensive monitoring, logging, and tracing solutions.
+
 
 </div>
 
