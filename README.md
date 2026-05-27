@@ -149,6 +149,14 @@ Hadoop, Airflow, Snowflake, Databricks, Microsoft Fabric — real-time Power BI 
 
 </div>
 
+#### **Front-End & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Modules" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
 ---
 
 ## 🏆 Certifications
