@@ -28,7 +28,7 @@ Full-Stack AI-driven Platform Engineer and DevOps Architect. Multi-Cloud Solutio
 
 **Core Areas of Expertise Include**
 
-**Multi-Cloud Architecture & Strategy**: Architecting robust, scalable platforms across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with significant experience in Landing Zone Design, Cloud Adoption Frameworks, and leading large-scale DC Migration projects.Containerization & Orchestration: A Certified Kubernetes Administrator (CKA) with hands-on mastery in building, securing, and monitoring managed services (EKS, AKS, GKE) and OpenShift. Proven ability to implement advanced solutions like Multi-Cluster Istio Service Mesh for traffic management and security.
+**Multi-Cloud Architecture & Strategy**: Architecting robust, scalable platforms solution across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with significant experience in Landing Zone Design, Cloud Adoption Frameworks, and leading large-scale DC Migration projects.Containerization & Orchestration: A Certified Kubernetes Administrator (CKA) with hands-on mastery in building, securing, and monitoring managed services (EKS, AKS, GKE) and OpenShift. Proven ability to implement advanced solutions like Multi-Cluster Istio Service Mesh for traffic management and security.
 
 **Infrastructure-as-Code (IaC) & Automation**: Expert-level proficiency in Infrastructure orchestration using Terraform, Pulumi, Cloud Formation, and ARM Templates, alongside configuration management with Puppet/Ansible, driving GitOps maturity and end-to-end automation with Python/Jenkins.
 
