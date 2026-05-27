@@ -13,8 +13,10 @@
 
 <br/>
 
-> **Skilled and Certified Multi-Cloud & Data Engineering Architect · Lead DevOps & SRE Engineer**  
-> Architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications at global MNCs including **Cisco**, **Hitachi**, and **Capgemini**.
+> **Skilled and Certified Multi-Cloud Solution Design Expert, Data Engineering Architect · Lead DevOps & SRE Engineer · Data Analytcis Engineer**  
+> **Architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications at global MNCs.**   
+ A Full-Stack AI-driven Platform Engineer, CloudOps Engineer and DevOps Architect providing end-to-end cloud solutions and robust infrastructure management. A Certified Kubernetes Administrator (CKA) with hands-on proficiency in building, deploying, and monitoring K8S clusters, including advanced solutions like Istio Service Mesh. Core strengths include GitOps maturity, defining SRE metrics, and orchestrating infrastructure using Terraform and Cloud Formation to deliver application resiliency (HA/DR) and seamless DC/Cloud Migrations. A highly accomplished Senior Platform and DevOps Leader specialising as a Cloud/DevOps/Big Data Architect  for major global MNCs, including Cisco, Hitachi, and Capgemini. The expertise lies in driving digital transformation by designing, implementing, and optimising multi-cloud solutions that ensure resilience, efficiency, and high performance. I possess a deep commitment to Site Reliability Engineering (SRE) principles, defining and achieving critical SLO/SLI metrics, and streamlining the entire development and operations lifecycle.
+
 
 </div>
 
