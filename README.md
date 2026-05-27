@@ -1,7 +1,8 @@
 <div align="center">
 
+<div align="center">
 <!-- Animated greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shartul+Kumar"alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+Architect;15+Years+of+Cloud+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Expert" alt="Typing SVG" /
 
 <br/>
 
