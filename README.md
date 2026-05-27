@@ -14,9 +14,7 @@
 
 ## 👤 About Me
 
-Full-Stack AI-driven Platform Engineer and DevOps Architect. Multi-Cloud Solution Engineer, Data Engineering Architect, SRE Engineer,Data Analytcis Engineer with **15+ years** of experience delivering end-to-end cloud solutions across **AWS, Azure, and GCP**. Architecting cloud solutions, implementing DevOps strategies, and improving the resiliency and performance of applications at global MNCs.
-
-A **Certified Kubernetes Administrator (CKA)** with deep expertise in GitOps, SRE principles, infrastructure orchestration, and multi-cloud platform design. Proven track record in driving digital transformation — from Landing Zone design and large-scale DataCenter migrations to multi-cluster Istio Service Mesh and real-time observability platforms.
+Full-Stack AI-driven Platform Engineer and DevOps Architect. Multi-Cloud Solution Engineer, Data Engineering Architect, SRE Engineer,Data Analytcis Engineer with **15+ years** of experience delivering end-to-end cloud solutions across.The expertise lies in Architecting cloud solutions, driving cross-functional team, fromulate DevOps strategies, optimizing  solutions, improving the resiliency, efficiency and deliverig high performance of applications at global MNCs
 
 ---
 
