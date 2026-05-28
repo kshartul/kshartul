@@ -188,7 +188,6 @@ Hadoop, Airflow, Snowflake, Databricks, Microsoft Fabric — real-time Power BI 
 | <img src="https://images.credly.com/size/110x110/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" width="60" alt="Google Professional ML Engineer"> | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | Google Professional ML Engineer | **Professional** |
 | <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="60" alt="CKA Certified Kubernetes Administrator"> | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Certified Kubernetes Administrator | **CKA** |
 | <img src="https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="60" alt="HashiCorp Terraform Associate"> | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | Terraform | **Associate** |
-| <img
 
 </div>
 
