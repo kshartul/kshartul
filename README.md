@@ -4,6 +4,16 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+%7C+Data+Engineering+Architect;15+Years+of+Cloud%2C+Platform%2C+DevOps+%26+SRE+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Certified+Expert" alt="Shartul Kumar - Cloud Solution Architect" />
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/shartulkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shartul@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/shartulkumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shartulkumar&style=for-the-badge&color=0078D4" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shartul)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarshartul24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshartul)
