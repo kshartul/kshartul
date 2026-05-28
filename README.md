@@ -197,19 +197,14 @@ Hadoop, Airflow, Snowflake, Databricks, Microsoft Fabric — real-time Power BI 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kshartul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshartul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=kshartul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshartul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages" />
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kshartul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com?user=kshartul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kshartul&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kshartul&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
