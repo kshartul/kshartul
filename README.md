@@ -212,7 +212,7 @@ Hadoop, Airflow, Snowflake, Databricks, Microsoft Fabric — real-time Power BI 
 
 <div align="center">
 
-Open to discussing cloud architecture challenges, DevOps transformations, and AI-driven platform engineering.
+Open to discussing Cloud Architecture Ahallenges, DevOps Transformations, and AI-driven Platform Engineering.
 
 <br/>
 
