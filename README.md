@@ -216,6 +216,10 @@ Open to discussing cloud architecture challenges, DevOps transformations, and AI
 
 <br/>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=80&section=footer&text=Let's+build+something+extraordinary+together!&fontSize=16&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shartul)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarshartul24@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshartul)
