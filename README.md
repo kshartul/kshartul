@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+DataEngineering+Solution+Architect;15+Years+of+Cloud-Platform-DevOps-Data-SRE+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Expert" alt="Shartul Kumar" />
-
-<br/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+%7C+Data+Engineering+Architect;15+Years+of+Cloud%2C+Platform%2C+DevOps+%26+SRE+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Certified+Expert" alt="Shartul Kumar - Cloud Solution Architect" />
 </p>
