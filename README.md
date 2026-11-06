@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Shartul+Kumar+%F0%9F%91%8B;%E2%98%81%EF%B8%8F+Forecast%3A+clear+skies%2C+zero+downtime;15%2B+Years+in+Cloud%2C+Platform%2C+DevOps+%26+SRE;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Certified;%F0%9F%9A%80+Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+Serverless alt="Shartul Kumar - Cloud Solution Architect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=60&lines=Hey!!+Shartul, here+%F0%9F%91%8B;Multi-Cloud+%26+DevOps+%7C+Data+Engineering+Architect;15+Years+of+Cloud%2C+Platform%2C+DevOps+%26+SRE+Excellence;CKA+%7C+AWS+%7C+Azure+%7C+GCP+Certified+Expert" alt="Shartul Kumar - Cloud Solution Architect" />
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/shartulkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,9 +9,8 @@
 </p>
 </p>
 
-
-
 </div>
+
 
 ---
 
